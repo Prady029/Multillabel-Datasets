@@ -1,0 +1,3 @@
+[submodule "LIFT-MultiLabel-Learning-with-Label-Specific-Features"]
+	path = LIFT-MultiLabel-Learning-with-Label-Specific-Features
+	url = https://github.com/Prady029/LIFT-MultiLabel-Learning-with-Label-Specific-Features.git
